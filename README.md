@@ -18,6 +18,6 @@ Open `Calc.html` in any modern web browser to use the calculator.
 
 ### Clone the repository
 Type the command in any  bash
-git clone https://github.com/yourusername/simple-calculator.git
+https://github.com/Harshi-1904/Calculator.git
 
 
